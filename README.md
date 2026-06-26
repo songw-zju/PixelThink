@@ -8,6 +8,13 @@ Existing reasoning segmentation approaches typically fine-tune multimodal large 
 
 <p align="center"> <a><img src="figs/teaser.png" width="90%"></a> </p>
 
+## TODO
+
+- [x] Release ReasonSeg-Diff benchmark data.
+- [ ] Release training and inference code.
+- [ ] Release Qwen3-VL compatible training implementation.
+- [ ] Add documentation for environment setup, data preparation, inference, evaluation, and Qwen3-VL training.
+
 ## Acknowledgement
 
 We sincerely thank the developers of the following open-source projects for their valuable contributions: [Seg-Zero](https://github.com/dvlab-research/Seg-Zero), [EasyR1](https://github.com/hiyouga/EasyR1), [verl](https://github.com/volcengine/verl), [Qwen2.5-VL](https://github.com/QwenLM/Qwen2.5-VL), [SAM2](https://github.com/facebookresearch/sam2), [L1](https://github.com/cmu-l3/l1).
