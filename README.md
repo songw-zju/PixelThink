@@ -11,9 +11,9 @@ Existing reasoning segmentation approaches typically fine-tune multimodal large 
 ## TODO
 
 - [x] Release ReasonSeg-Diff benchmark data.
-- [ ] Release training and inference code.
-- [ ] Release Qwen3-VL compatible training implementation.
-- [ ] Add documentation for environment setup, data preparation, inference, evaluation, and Qwen3-VL training.
+- [x] Release training and inference code.
+- [x] Release Qwen3-VL compatible training implementation.
+- [ ] Add documentation for environment setup, data preparation, inference, evaluation, and training.
 
 ## Acknowledgement
 
